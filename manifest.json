@@ -31,7 +31,7 @@
       ],
       "js": [
         "js/jquery/jquery.min.js",
-        "src/inject/vampetase.js"
+        "src/inject/nicolese.js"
       ]
     }
   ]
